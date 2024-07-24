@@ -1,3 +1,3 @@
 Simple calculator program
 ---------
-samll project
+small project
